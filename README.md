@@ -5,7 +5,7 @@ CloudFlare WARP 一键管理脚本
 ## 一键脚本
 
 ```shell
-wget -N https://gitlab.com/Misaka-blog/warp-script/-/raw/main/warp.sh && bash warp.sh
+wget -N https://github.com/Koros0111/warp-script/raw/main/files/warp-yxip/warp-yxip.sh && bash warp.sh
 ```
 
 ## 常见问题
@@ -63,18 +63,18 @@ curl -4 ip.p3terx.com
 
 ### For Windows
 
-下载地址：https://gitlab.com/Misaka-blog/warp-script/-/blob/main/files/warp-yxip/warp-yxip-win.7z
+下载地址：https://github.com/Koros0111/warp-script/raw/main/files/warp-yxip/warp-yxip-win.7z
 
 ### For MacOS
 
 ```shell
-wget -N https://gitlab.com/Misaka-blog/warp-script/-/raw/main/files/warp-yxip/warp-yxip-mac.sh && bash warp-yxip-mac.sh
+wget -N https://github.com/Koros0111/warp-script/raw/main/files/warp-yxip/warp-yxip-mac.sh && bash warp-yxip-mac.sh
 ```
 
 ### For Linux （包括安卓 Termux 和 iOS 的 iSH）
 
 ```shell
-wget -N https://gitlab.com/Misaka-blog/warp-script/-/raw/main/files/warp-yxip/warp-yxip.sh && bash warp-yxip.sh
+wget -N https://github.com/Koros0111/warp-script/raw/main/files/warp-yxip/warp-yxip.sh && bash warp-yxip.sh
 ```
 
 安卓 Termux 如无 wget 请使用以下命令安装：`pkg update && pkg install wget`
